@@ -120,7 +120,7 @@ body{
     padding: 24px;
     text-align: center;
     font-family:var(--fuente-montserrat);
-    font-size: 1.5rem;
+    font-size: 1 rem;
     font-weight:400;
 
 }
