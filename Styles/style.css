@@ -72,8 +72,9 @@ body{
 }
 
 .presentacion_contenido_parrafo{
-    font-size:1.5rem;
-    font-family:var(--fuente-montserrat); 
+    font-size:1.3rem;
+    font-family:var(--fuente-montserrat);
+    align-content: justify; 
 }
 
 .presentacion_enlaces{
