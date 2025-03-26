@@ -112,6 +112,7 @@ body{
 }
 
 .presentacion_imagen{
+    padding-top: 5%; 
     width: 50%;
 }
 
